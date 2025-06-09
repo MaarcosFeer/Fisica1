@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+pandas
+matplotlib
+pandastable
+whittaker_eilers
